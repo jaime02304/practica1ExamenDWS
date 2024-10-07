@@ -1,0 +1,5 @@
+Opcion 3. Mostrar total
+Opcion 1. Añadir venta
+Opcion 1. Añadir venta
+Opcion 2. Añadir gasto
+Opcion 3. Mostrar total
